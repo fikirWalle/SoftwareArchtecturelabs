@@ -1,0 +1,2 @@
+question 1 in word document 
+question 2 and 3 are found in zip file 
